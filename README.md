@@ -1,4 +1,4 @@
-\# Pokémon Silver Reborn
+# Pokémon Silver Reborn
 
 
 
