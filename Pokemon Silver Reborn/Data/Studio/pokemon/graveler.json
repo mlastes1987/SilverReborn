@@ -31,8 +31,8 @@
           "form": 0,
           "conditions": [
             {
-              "type": "trade",
-              "value": true
+              "type": "minLevel",
+              "value": 36
             }
           ]
         }
@@ -75,10 +75,10 @@
         "footprint": "075",
         "character": "075_0",
         "characterShiny": "075s_0",
-        "cry": "075cry.ogg",
-        "hasFemale": false,
         "egg": "egg",
-        "iconEgg": "egg"
+        "iconEgg": "egg",
+        "cry": "075cry.ogg",
+        "hasFemale": false
       },
       "moveSet": [
         {
@@ -425,10 +425,10 @@
         "footprint": "075",
         "character": "",
         "characterShiny": "",
-        "cry": "075cry.ogg",
-        "hasFemale": false,
         "egg": "egg",
-        "iconEgg": "egg"
+        "iconEgg": "egg",
+        "cry": "075cry.ogg",
+        "hasFemale": false
       },
       "moveSet": [
         {
@@ -811,10 +811,10 @@
         "footprint": "075",
         "character": "",
         "characterShiny": "",
-        "cry": "075cry.ogg",
-        "hasFemale": false,
         "egg": "egg",
-        "iconEgg": "egg"
+        "iconEgg": "egg",
+        "cry": "075cry.ogg",
+        "hasFemale": false
       },
       "moveSet": [
         {

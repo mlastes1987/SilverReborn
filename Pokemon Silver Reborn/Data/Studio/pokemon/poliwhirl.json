@@ -41,10 +41,6 @@
           "form": 0,
           "conditions": [
             {
-              "type": "trade",
-              "value": true
-            },
-            {
               "type": "itemHold",
               "value": "king_s_rock"
             }
@@ -89,10 +85,10 @@
         "footprint": "061",
         "character": "061_0",
         "characterShiny": "061s_0",
-        "cry": "061cry.ogg",
-        "hasFemale": false,
         "egg": "egg",
-        "iconEgg": "egg"
+        "iconEgg": "egg",
+        "cry": "061cry.ogg",
+        "hasFemale": false
       },
       "moveSet": [
         {

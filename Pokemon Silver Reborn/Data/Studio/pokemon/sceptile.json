@@ -74,10 +74,10 @@
         "footprint": "254",
         "character": "254_0",
         "characterShiny": "254s_0",
-        "cry": "254cry.ogg",
-        "hasFemale": false,
         "egg": "egg",
-        "iconEgg": "egg"
+        "iconEgg": "egg",
+        "cry": "254cry.ogg",
+        "hasFemale": false
       },
       "moveSet": [
         {
@@ -143,7 +143,7 @@
         {
           "klass": "LevelLearnableMove",
           "move": "leaf_blade",
-          "level": 23
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
@@ -504,10 +504,10 @@
         "footprint": "254",
         "character": "254_30",
         "characterShiny": "254s_30",
-        "cry": "254_30cry.ogg",
-        "hasFemale": false,
         "egg": "egg",
-        "iconEgg": "egg"
+        "iconEgg": "egg",
+        "cry": "254_30cry.ogg",
+        "hasFemale": false
       },
       "moveSet": [
         {

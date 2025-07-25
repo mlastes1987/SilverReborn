@@ -75,10 +75,10 @@
         "footprint": "008",
         "character": "008_0",
         "characterShiny": "008s_0",
-        "cry": "008cry.ogg",
-        "hasFemale": false,
         "egg": "egg",
-        "iconEgg": "egg"
+        "iconEgg": "egg",
+        "cry": "008cry.ogg",
+        "hasFemale": false
       },
       "moveSet": [
         {
@@ -134,12 +134,12 @@
         {
           "klass": "LevelLearnableMove",
           "move": "water_pulse",
-          "level": 29
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
           "move": "aqua_tail",
-          "level": 33
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",

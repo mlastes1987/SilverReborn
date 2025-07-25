@@ -75,10 +75,10 @@
         "footprint": "092",
         "character": "092_0",
         "characterShiny": "092s_0",
-        "cry": "092cry.ogg",
-        "hasFemale": false,
         "egg": "egg",
-        "iconEgg": "egg"
+        "iconEgg": "egg",
+        "cry": "092cry.ogg",
+        "hasFemale": false
       },
       "moveSet": [
         {

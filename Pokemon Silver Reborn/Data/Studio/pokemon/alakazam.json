@@ -87,10 +87,10 @@
         "footprint": "065",
         "character": "065_0",
         "characterShiny": "065s_0",
-        "cry": "065cry.ogg",
-        "hasFemale": true,
         "egg": "egg",
-        "iconEgg": "egg"
+        "iconEgg": "egg",
+        "cry": "065cry.ogg",
+        "hasFemale": true
       },
       "moveSet": [
         {
@@ -115,13 +115,28 @@
         },
         {
           "klass": "LevelLearnableMove",
+          "move": "shock_wave",
+          "level": 17
+        },
+        {
+          "klass": "LevelLearnableMove",
           "move": "disable",
           "level": 18
         },
         {
           "klass": "LevelLearnableMove",
+          "move": "thunder_punch",
+          "level": 20
+        },
+        {
+          "klass": "LevelLearnableMove",
           "move": "psybeam",
           "level": 21
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "thunderbolt",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
@@ -500,10 +515,10 @@
         "footprint": "065",
         "character": "065_30",
         "characterShiny": "065s_30",
-        "cry": "065_30cry.ogg",
-        "hasFemale": false,
         "egg": "egg",
-        "iconEgg": "egg"
+        "iconEgg": "egg",
+        "cry": "065_30cry.ogg",
+        "hasFemale": false
       },
       "moveSet": [
         {

@@ -31,8 +31,8 @@
           "form": 0,
           "conditions": [
             {
-              "type": "trade",
-              "value": true
+              "type": "minLevel",
+              "value": 36
             }
           ]
         }
@@ -75,10 +75,10 @@
         "footprint": "093",
         "character": "093_0",
         "characterShiny": "093s_0",
-        "cry": "093cry.ogg",
-        "hasFemale": false,
         "egg": "egg",
-        "iconEgg": "egg"
+        "iconEgg": "egg",
+        "cry": "093cry.ogg",
+        "hasFemale": false
       },
       "moveSet": [
         {
@@ -130,6 +130,11 @@
           "klass": "LevelLearnableMove",
           "move": "sucker_punch",
           "level": 22
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "shadow_punch",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",

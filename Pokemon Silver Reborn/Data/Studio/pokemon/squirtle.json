@@ -75,10 +75,10 @@
         "footprint": "007",
         "character": "007_0",
         "characterShiny": "007s_0",
-        "cry": "007cry.ogg",
-        "hasFemale": false,
         "egg": "egg",
-        "iconEgg": "egg"
+        "iconEgg": "egg",
+        "cry": "007cry.ogg",
+        "hasFemale": false
       },
       "moveSet": [
         {
@@ -94,7 +94,7 @@
         {
           "klass": "LevelLearnableMove",
           "move": "water_gun",
-          "level": 7
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
@@ -104,7 +104,7 @@
         {
           "klass": "LevelLearnableMove",
           "move": "bubble",
-          "level": 13
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",

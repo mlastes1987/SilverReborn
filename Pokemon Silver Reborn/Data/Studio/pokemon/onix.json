@@ -31,10 +31,6 @@
           "form": 0,
           "conditions": [
             {
-              "type": "trade",
-              "value": true
-            },
-            {
               "type": "itemHold",
               "value": "metal_coat"
             }
@@ -79,10 +75,10 @@
         "footprint": "095",
         "character": "095_0",
         "characterShiny": "095s_0",
-        "cry": "095cry.ogg",
-        "hasFemale": false,
         "egg": "egg",
-        "iconEgg": "egg"
+        "iconEgg": "egg",
+        "cry": "095cry.ogg",
+        "hasFemale": false
       },
       "moveSet": [
         {
